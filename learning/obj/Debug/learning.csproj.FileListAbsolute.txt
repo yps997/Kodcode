@@ -1,0 +1,10 @@
+C:\programing\cs\learning\bin\Debug\learning.exe.config
+C:\programing\cs\learning\bin\Debug\learning.exe
+C:\programing\cs\learning\bin\Debug\learning.pdb
+C:\programing\cs\learning\obj\Debug\learning.csproj.AssemblyReference.cache
+C:\programing\cs\learning\obj\Debug\learning.Form1.resources
+C:\programing\cs\learning\obj\Debug\learning.Properties.Resources.resources
+C:\programing\cs\learning\obj\Debug\learning.csproj.GenerateResource.cache
+C:\programing\cs\learning\obj\Debug\learning.csproj.CoreCompileInputs.cache
+C:\programing\cs\learning\obj\Debug\learning.exe
+C:\programing\cs\learning\obj\Debug\learning.pdb
